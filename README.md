@@ -1,4 +1,4 @@
-### <div align="center">To Do APP</div>
+### <div align="left">To Do APP</div>
 
 -Academic proyect created in Henry (Bootcamp Full Stack Developer)</br>
 -Web App created with ReactJS, CSS and HTML 
@@ -9,9 +9,9 @@ It lets you add new todos (title, name, description and priority) and shows them
 
 
 For using it you have to :
-<li>
+
   <ul>-git clone "https://github.com/MatiasMorrone/TODO-APP.git"<br/> </ul>
   <ul>-in your console you have to be in this folder<br/> </ul>
   <ul>-npm i<br/> </ul>
   <ul>-npm start<br/></ul> 
-</li>
+
